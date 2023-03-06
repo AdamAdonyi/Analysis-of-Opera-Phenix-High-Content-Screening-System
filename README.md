@@ -22,4 +22,4 @@ Each timepoint was saved in a separated text file including X, Y, Z position, ob
 The cleaned data was exported focusing on the arrival area and used for further visualization using Tableau.
 
 # Data source
-Raw data is not uploaded because it has not published yet
+Raw data is not fully uploaded because it has not published yet. (only the first timepoint as an example)
